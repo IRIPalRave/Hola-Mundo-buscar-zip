@@ -1,0 +1,10 @@
+ 1.cd sdcard
+ ls *.zip
+ cd ..
+ exit
+ 
+ 
+
+
+
+
